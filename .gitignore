@@ -1,0 +1,17 @@
+# 原始个人数据（不上传）
+/原始文件/
+/已整理/
+/待确认/
+*.xlsx
+*.json
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# 编辑器
+.vscode/
+.idea/
