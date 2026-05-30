@@ -6,7 +6,11 @@
 
 讲座 · 论坛 · 会议 · 差旅 · 文印 · 图书
 
+<br>
+
 ![License](https://img.shields.io/badge/license-MIT-blue)
+![Language](https://img.shields.io/badge/language-中文-brightgreen)
+![Platform](https://img.shields.io/badge/platform-Hermes%20|%20Claude%20|%20Codex-lightgrey)
 
 </div>
 
