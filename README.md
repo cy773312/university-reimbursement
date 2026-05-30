@@ -1,6 +1,12 @@
 <div align="center">
 
-![高校报销整理助手](assets/banner.svg)
+# 🧾 高校报销整理助手
+
+**发票 · 截图 · 行程单 · 交给 AI Agent · 自动归类出表**
+
+讲座 · 论坛 · 会议 · 差旅 · 文印 · 图书
+
+<br>
 
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Language](https://img.shields.io/badge/language-中文-brightgreen)
