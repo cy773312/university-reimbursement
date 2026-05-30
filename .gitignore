@@ -1,10 +1,3 @@
-# 原始个人数据（不上传）
-/原始文件/
-/已整理/
-/待确认/
-*.xlsx
-*.json
-
 # Python
 __pycache__/
 *.pyc
@@ -12,6 +5,9 @@ __pycache__/
 # macOS
 .DS_Store
 
-# 编辑器
+# Editor
 .vscode/
 .idea/
+
+# Hermes (user config)
+.env
