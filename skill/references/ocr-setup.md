@@ -35,7 +35,7 @@ python3 /Users/chenyang/.hermes/skills/productivity/university-reimbursement/scr
 python3 /Users/chenyang/.hermes/skills/productivity/university-reimbursement/scripts/ocr_images.py /path/to/images/ --extract
 
 # OCR 指定文件
-python3 /Users/chenyang/.hermes/skills/productivity/university-reimbursement/scripts/ocr_images.py IMG_2434.png IMG_2435.png --extract
+python3 /Users/chenyang/.hermes/skills/productivity/university-reimbursement/scripts/ocr_images.py IMG_0014.png IMG_0015.png --extract
 
 # 输出到 JSON 文件
 python3 /Users/chenyang/.hermes/skills/productivity/university-reimbursement/scripts/ocr_images.py /path/to/ --extract -o ocr_result.json
@@ -45,7 +45,7 @@ python3 /Users/chenyang/.hermes/skills/productivity/university-reimbursement/scr
 
 ```json
 {
-  "file": "IMG_2434.png",
+  "file": "IMG_0014.png",
   "success": true,
   "text": "账单\\n\\n-175.30\\n\\n支付成功\\n支付时间 2026年7月12日 14:25:18\\n商户全称 某某打车科技有限公司\\n支付方式 零钱通\\n交易单号 123456789012345678901234",
   "key_info": {
